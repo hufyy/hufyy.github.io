@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Welcome to HuFYy Blog"
+title:      "使用systemd管理elasticsearch"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2022-09-09 12:00:00
 author:     "HuFYy"
@@ -130,11 +130,10 @@ RestartSec=42s #重启等待的时间
 ### 参考
 
 ---
-
-http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-commands.html
-https://linux.cn/article-6888-1.html
+<http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-commands.html>
+<https://linux.cn/article-6888-1.html>
+<https://www.freedesktop.org/software/systemd/man/systemd.unit.html>
+<http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-part-two.html>
 [https://wiki.archlinux.org/index.php/Systemd_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)](https://wiki.archlinux.org/index.php/Systemd_(简体中文))
-https://www.freedesktop.org/software/systemd/man/systemd.unit.html
-http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-part-two.html
 
 
