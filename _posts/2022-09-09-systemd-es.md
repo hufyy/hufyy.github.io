@@ -9,8 +9,6 @@ tags:
     - systemd
     - elasticsearch
 ---
-# 使用systemd管理elasticsearch
-
 ## 前言
 
 为了将elasticsearch作为系统服务统一管理，需要使用systemd来实现这一需求。
