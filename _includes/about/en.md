@@ -39,10 +39,3 @@ And all I can do is learn to live peacefully with that perception. The illustrat
 ### refer to
 
 <http://huangxuan.me/2020/07/05/reflection-2020/>
-
-
-
-~
-~
-~
-~
